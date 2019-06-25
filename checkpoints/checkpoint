@@ -1,0 +1,2 @@
+model_checkpoint_path: "ar_toy"
+all_model_checkpoint_paths: "ar_toy"
